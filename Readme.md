@@ -10,36 +10,36 @@ Repository ini digunakan untuk menyimpan hasil praktikum konversi kode Java ke P
 Materi ini membahas pembuatan kelas dasar dan instansiasi objek di PHP.
 
 ### Output
-![Output Pertemuan 01](IMAGES/1.jpg)
+![Output Pertemuan 01]!(IMAGES/1.jpg.png)
 
 ## Pertemuan 02: 
 Materi ini membahas penggunaan metode `__construct()` untuk inisialisasi properti objek saat objek diciptakan.
 
 ### Output
-![Output Pertemuan 02](IMAGES/2.jpg)
+![Output Pertemuan 02]!(IMAGES/2.jpg.png)
 
 ## Pertemuan 03: 
 Materi ini membahas mekanisme pewarisan sifat dan properti dari *parent class* ke *child class* menggunakan kata kunci `extends`.
 
 ### Output
-[Output Pertemuan 03](IMAGES/3.Appphp.jpg)
-[Output Pertemuan 03](IMAGES/3.Mainphp.jpg)
+[Output Pertemuan 03]!(IMAGES/3.Appphp.jpg.png)
+[Output Pertemuan 03]!(IMAGES/3.Mainphp.jpg.png)
 
 ## Pertemuan 04: 
 Materi ini membahas kemampuan suatu objek untuk memiliki banyak bentuk melalui teknik *method overriding*.
 
 ### Output
-![Output Pertemuan 04](IMAGES/4.jpg)
+![Output Pertemuan 04]!(IMAGES/4.jpg.png)
 -
 
 ## Pertemuan 05: 
 Materi ini membahas hubungan antar objek, baik hubungan asosiasi maupun hubungan komposisi/agregasi.
 
 ### Output
-[Output Pertemuan 05](IMAGES/5.jpg)
+[Output Pertemuan 05]!(IMAGES/5.jpg.png)
 
 ## Pertemuan 06: 
 Materi ini membahas implementasi abstraksi menggunakan `abstract class` dan kata kunci `implements` untuk `interface`.
 
 ### Screenshot Hasil Output
-![Output Pertemuan 06](IMAGES/6.jpg)
+![Output Pertemuan 06]!(IMAGES/6.jpg.png)
